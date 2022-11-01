@@ -38,3 +38,9 @@ EXAMPLE:
 	1. checking concerns
 	2. summarize benefits
 	3. propose commitment
+
+-------------------------------------------------------------------------------------------
+INVESTIGATING
+-------------------------------------------------------------------------------------------
+
+Ask questions to uncover Implied Needs (problems) and develop them into Explicit Needs (actions).

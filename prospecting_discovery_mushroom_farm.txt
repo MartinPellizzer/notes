@@ -1,0 +1,45 @@
+PROBLEMS:
+- malattie fungine sugli champignon (agaricus bisporus)
+- prodotti chimici sempre meno efficaci e desiderabili
+- necessaria sanificazione sale coltura funghi tra un ciclo di produzione e l'altro
+- alcuni patogeni da eliminare:
+	- lecanicillium fungicola - 30 minuti ozonizzazione
+	- cladobotryum dendroides - 8 ore ozonizzazione
+	- mycogene perniciosa - 6 ore ozonizzazione
+	- trichoderma aggressivum - ozonizzazione non soddisfacente
+
+-----------------------------------------------------------------------------------
+OPENING:
+1. saluti
+
+2. se richiesto, spiega l'ozono in 30 secondi
+- sarò sintetico. l'ozono è niente più e niente meno che un gas. ha una fortissima capacità battericida ed è usato ampiamente in diversi settori come sanificante. uno tra tutti il settore del trattamento dell'acqua potabile pubblica, dove viene utilizzato ormai da diversi decenni con successo. ultimamente, a cause delle restrizione sempre maggiori sui prodotti chimici nella sanificazione dei prodotti alimentari, sta prendendo piede anche nell'industria alimentare, in quanto è in grado di sanificare efficaciemente, in maniera ecologica (ovvero non lascia residui chimici sui prodotti), e a basso costo energetico. come le suona?
+
+3. dopo i convenievoli, comincia ad investigare (domande, domande, domande)...
+
+PROBING:
+- quali sono i principali patogeni che ha bisogno di eliminare? (ppm ozono e tempo sanificazione cambia)
+- che tipo di trattamenti di sanificazione state attualmente utilizzando per tenere sotto controllo gli agenti patogeni? 
+- che prodotti chimici sta usando attualmente per sanificare compost, sale coltura, etc...?
+- usate vapore per eliminare i patogeni nel substrato di crescita, sale di coltura, etc...?
+- quante sale di coltura avete?
+- quante volate (fioriture) riuscite a fare per ciclo?
+- quanti cicli di prodizione all'anno fate
+- che tipo di substrato utilizzate?
+
+POCESS:
+- mi aiuti a capire come funziona il suo processo produttivo?
+
+PROVOKING:
+- cosa succede quando dovete smaltire il compost? avete problemi di odori? dovete sanificarlo prima di smaltirlo?
+
+VALIDATING:
+- ok. quindi, se ho capito bene, la vostra necessità principale è quella di sostiture l'attuale sistema di sanificazione a vapore con un altro sistema altrettanto efficace contro il patogeno M. perniciosa, dato che l'attuale sistema a vapore non è più vantaggioso a causa del caro bollette. è corretto?
+- inoltre sarebbe anche opportuno sanificare il substrato di crescita dei funghi in quanto avete riscontrato che 1) alle volte arriva contaminato con L. fungicola e 2) non sarebbe affatto male aumentare la produzione di un exta 30-50% per volata. me lo conferma?
+- ottimo. ho dimenticato altre cose importanti, o ci siamo?
+
+- d'accordo, allora è tutto chiaro. mi dia solo 2 secondi che voglio controllare una cosa...
+- ok dai. allora, se lei è d'accordo, io le proporrei di procedere cosi... (prova gratuita)
+
+DEMO:
+- la prova di 30 giorni (con condizioni) è la demo. punto.
