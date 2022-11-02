@@ -44,3 +44,63 @@ INVESTIGATING
 -------------------------------------------------------------------------------------------
 
 Ask questions to uncover Implied Needs (problems) and develop them into Explicit Needs (actions).
+
+SITUATION QUESTIONS: The fewer the better. Only the neccesary ones (3-5).
+	- "What's your position?"
+	- "How long have you been here?"
+	- "Do you make the purchasing decisions?"
+	- "What do you see as your objectives in this area?"
+
+	- "What sort of business do you run?"
+	- "Is it growing or shrinking?"
+	- "What's your annual sales volume?"
+	- "How many people do you employ?"
+
+	- "What equipment are you using at present?"
+	- "How long have you had it?"
+	- "Is it purchased or leased?"
+	- "How many people use it?"
+
+Avoid:
+	- "Tell me about your business."
+	- "What steps do you go through in making a purchasing decision here?"
+
+
+PROBLEM QUESTIONS: Better than situation questions, but still not good enough (Implied Needs).
+	- "Are you satisfied with your present equipment?"
+	- "What are the disadvantages of the way you're handling this now?"
+	- "Isn't it difficult to process peak loads with your present system?"
+	- "Does this old machine give you reliability problems?"
+
+
+IMPLICATION QUESTIONS: Develop from PQ, talk the language of decision makers.
+					   (Explicit Needs LV.1).
+	- "What effect does that have on output?"
+	- "Could that lead to increased costs?"
+	- "Will it slow down your proposed expansion?"
+
+	- Check Book for full example
+
+
+NEED QUESTIONS: (Explicit Needs LV.2)
+	- Develop from IQ.
+	- Focus on solutions and not on problems.
+	- The customer tells YOU the benefits.
+	- NQ reduce objections.
+	- Great for internal sales (in HT, an average of 5.4 buyers are involved per sale).
+
+
+	- "Is it important to you to solve this problem?"
+	- "Why would you find this solutions so useful?"
+	- "Is there any other way this could help you?"
+
+	- "How do you think a faster machine would help you?"
+
+	- "How would that help?"
+	- "Why is it important to solve this problem?"
+	- "What benefits do you see?"
+
+	- Check Book for full example
+
+
+SPIN:
