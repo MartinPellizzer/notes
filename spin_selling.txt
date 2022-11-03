@@ -73,8 +73,11 @@ PROBLEM QUESTIONS: Better than situation questions, but still not good enough (I
 	- "Does this old machine give you reliability problems?"
 
 
-IMPLICATION QUESTIONS: Develop from PQ, talk the language of decision makers.
-					   (Explicit Needs LV.1).
+IMPLICATION QUESTIONS: 
+	- Develop from PQ
+	- Make implied needs larger and more urgent
+	- Talk the language of decision makers.
+
 	- "What effect does that have on output?"
 	- "Could that lead to increased costs?"
 	- "Will it slow down your proposed expansion?"
@@ -104,3 +107,49 @@ NEED QUESTIONS: (Explicit Needs LV.2)
 
 
 SPIN:
+	- Check Book for graph
+
+	1. Ask SQ to establish background facts, but don't ask too many as they can bore.
+	2. Then quickly move to PQ to explore problems, difficulties, and dissatisfactions (IN).
+	3. Then ask IQ to make PQ (IN) grow bigger and more urgent.
+	4. Then ask NQ when the buyer agrees the problem is serious enough to justify action (EN). Make the buyer focus on solutions and make him tell YOU the benefits of your solution.
+
+
+-----------------------
+HOW TO USE SPIN:
+-----------------------
+- Play the part of the problem solver.
+
+- Problem Questions:
+	1. Write down at least 3 potential problems you can solve.
+	2. Write down some examples of PQ you could ask.
+
+- Implication Questions:
+	1. Write down a potential problem the customer is likely to have.
+	2. Write down what related difficulties this problem might lead to.
+	3. Write down how these difficulties lead to IQ (cost, time, people, legal, etc...);
+
+- Need Questions:
+	- Don't ask them too early, build needs with IQ first.
+	- Don't ask them where you don't have answers.
+
+	1. Get a friend to help you.
+	2. Chose a topic about a need that you believe the other person has.
+	3. Ask NQ to get the other person talking about the benefits of the topic under discussion.
+		- Why do you think it would be good to have a ...? (fill based on IN from IQ)
+		- What would it let us do that we can't do right now?
+		- Would anyone else in the company be pleased if we bought one?
+		- Do you think it would have any cost advantages compared to ...?
+
+	1. Check for enthusiasm signs in your client.
+	2. Ulike IQ which tend to be specific, NQ tend to be general.
+		- Why is that important?
+		- How would that help?
+		- Would it be useful if ...?
+		- Is there any other way this could help you? 
+
+
+-----------------------
+GIVING BENEFITS IN MAJOR SALES
+-----------------------
+
