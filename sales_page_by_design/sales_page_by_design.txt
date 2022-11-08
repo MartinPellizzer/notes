@@ -1,0 +1,17 @@
+--------------------------------
+16 SECTIONS
+--------------------------------
+
+01. SOCIAL PROOF
+	- never enough
+	- testimonials
+	- sprinkle them everywhere
+	- avatar 1 -> objection 1
+	- avatar 2 -> objection 2
+	- avatar 3 -> objection 3
+	- text, screenshot, videos...
+	- layout:
+		- headline
+		- content
+		- picture
+		- name
