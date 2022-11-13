@@ -20,3 +20,28 @@
 	- absolute must
 	- it addresses the biggest objection of all: 
 		- fear, risk, uncertanty
+
+03. MODULE BREAKDOWN (#6)
+	- like table of contents for a course, but not quite
+	- module 1 is..., module 2 is..., etc...
+	- module headline + bullet list
+	- divide your offer in smaller deliverables, and define them as modules
+	- suppose each module is a book... would you buy that module by the headline only?
+	- use action words in the title (e.g. activate, discover, remove...)
+	- maybe add testimonials related to each module
+	- bullets:
+		- "discover how to ___ so that ___"
+		- "the secret to ___"
+		- "how to ___ without ___"
+		- "the sneaky ___"
+		- "the quickest/easiest/fastest ___"
+		- "the single most ___"
+		- "the truth about ___"
+		- "what ___ don't tell you about ___"
+	- the power of curiosity:
+		- "the one secret..."
+		- "the simple strategy on page 24 that will..."
+
+04. BONUSES (#11)
+
+	
