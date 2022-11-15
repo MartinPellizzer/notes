@@ -43,5 +43,29 @@
 		- "the simple strategy on page 24 that will..."
 
 04. BONUSES (#11)
+	- put after the price
+	- after they see the price, they go into cost/benefit evaluation mode
+	- use the bonuses to pump the value of the offer
+	- the bonuses are to address their biggest objection
+	- bonuses:
+		- write "BONUS"
+		- list with numbers
+		- demonstate value in the name
+		- add price value
+		- product image
+		- copy
+	- chunk up bonuses x bundle
+	- e.g. "Bonuse #3. The quick-start bonus bundle"
 
-	
+05. FAQ (#14)
+	- address the objections behind the questions
+	- don't "answer" the question, discredit the belief
+	- maybe agree, and amplify
+
+06. "EARNING" DISCLAIMER (#15) if relevant
+
+07. FOOTER (#16)
+	- copyright
+	- privaci policy
+	- terms
+	- earning disclaimer
