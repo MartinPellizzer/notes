@@ -124,3 +124,24 @@ CHOOSING AN EFFECTIVE VISUAL
 	- stacked horizontal bar
 	- waterfall
 	- square area
+
+- simple text
+	- when you have just a number or two, use simple text, not graphs
+	- make it prominent
+	- few supporting words
+	- these numbers get a lot of attention
+	- are more immediate
+	- don't use them for time relationships
+
+- tables
+	- great for comparing values
+	- great for quick indexing
+	- good to communicate multiple different units of measure
+	- good to communicate to mixed audience whose members will each look for their particular row of interest
+	- don't use in live presentations, you lose the audience attention
+	- use easier to scan graphs in live presentations
+	- don't use heavy borders or shading, don't let the table compete with the data for attention
+	- only light or no borders
+	- book stephen few, show me the numbers
+
+- heatmap
