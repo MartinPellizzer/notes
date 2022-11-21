@@ -69,3 +69,18 @@
 	- privaci policy
 	- terms
 	- earning disclaimer
+
+08. CTA/PRICING (#9)
+	- an entire section when you put a clear call to action
+	- eg. entirely for free for 30 days, then $49/month
+	- lead with your installment plan
+		- then you offer to save when pay in full
+		- eg. save 23% when you pay in full
+		- use "sold out" for offers
+		- 12 installment of $297 > one payment $14,997 (sold out?)... if you upgrade to full payment you save X%
+	- avoid words like: pay, payment, price, cost, purhcase (use these when you talk about competitor alternatives)
+	- use words like: investment, insatallment, enroll, register, join
+
+09. THE PRICING TABLE (#8)
+	- if applicable
+	- tell what's included and whats not (comparing offers)

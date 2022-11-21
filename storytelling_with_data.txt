@@ -145,3 +145,114 @@ CHOOSING AN EFFECTIVE VISUAL
 	- book stephen few, show me the numbers
 
 - heatmap
+	- in addition to numbers you use colors to convey the relative magnitude
+	- use color saturation
+	- help you find points of interest
+	- higher saturation higher number
+	- the lower the saturation, the lower the number
+
+- graphs
+	- while tables interact with our verbal system, graphs interact with our visual system
+	- they are faster to process
+	- well designed graphs are quicker to scan and get the point across than tables
+	- 4 categories: points, lines, bars, area
+
+- points
+	- scatterplot
+		- useful for showing the relationship between two things
+		- more frequently used in scientific fields
+		- they may seem intimidating if you are not used to it
+		- less frequent in the business world
+		- e.g. manage a bus fleet and understand the relationship between miles driven and cost per mile x bus
+		- e.g. linear regression (to find average) and then classification to find the worst performers
+
+- lines
+	- to plot continuous data
+	- relationship between point data (e.g. values over time)
+	- line graph
+		- can show single or multiple series of data
+		- the time must be in constant intervalls
+		- you can use it for summary statistic, like average
+	- slopegraph 
+		- use it when you have 2 time periods
+		- just 1 line
+		- not standard graphs in most applications
+
+- bars
+	- great for categorical data (groups)
+	- they are very common and easy to understand
+	- less learning curve for your audience
+	- easy for the eyes to read
+	- easy to see which category is bigger and smaller
+	- always have a zero baseling, or misleading
+	- the more you want to convey the bigger picture, the less the data (clutter) to convey
+	- don't cheat by using magnified scale
+	- the bars width should be wider than the whitespaces
+	- don't make them too wide, make them just right
+	- vertical bar chart
+		- can be single, multiple series
+		- more series, more difficult to focus
+		- order series by relevancy and focus
+	- stacked vertical bar chart
+		- more limited use cases
+		- allow you to compare totals across categories
+		- see the subcomponent pieces within a given category
+		- visualli overwhelming soon
+		- can include absolute numbers when makes sense
+	- waterfsll chart
+		- to pull apartpieces of a stacked bar chart to focus on one at a time
+		- uncommon to many softwares
+	- horizontal bar chart
+		- the go-to graph for categorical data
+		- extremely easy to read
+		- useful if categorical labels are long
+		- we process informations from top to bottom, left to right
+		- single series or multiple
+		- order bars by logic (eg age group)
+		- or by biggest or smallest category
+	- stacked horizontal bar chart
+		- give a sense of the subcomponent pieces
+		- structured by absolute value or sum to 100%
+		- 100% if you want to compare biggest and smallest components because they have a constant baseline
+
+- area
+	- avoid most area graphs
+	- humans are not good with giving quantitative value to two-dimensional space
+	- one exception, visualize numbers of vastly different magnitudes
+	- you can create more compact visualizations than barcharts
+
+- other types of graphs
+	- choose the graph type that will enable you toclearly ger you message accross you audience
+	- infographics, get inspired by data journalism (new york times and national geographic)
+
+- to be avoided
+	- pie charts
+	- donut charts
+	- 3d
+	- secondary y-axes
+
+- pie charts
+	- are evil
+	- human eyes are not good at describing quantitative values on a 2-dim space
+	- hard for people to read
+	- use horizontal bar charts insteadkJ:w
+
+- donut chart
+	- even worse than pie charts
+	- even harder to compare
+
+- 3d charts
+	- add perspective, misleaded visualization
+	- skew, tilting, and depth are very harmful
+	- never use 3d
+	- only if you are plotting a third dimention
+
+- secondary yj-axis
+	- genrally not a good idea
+
+-----------------------
+CLUTTER IS YOUR ENEMY
+-----------------------
+- every new element you add takes up cognitive load
+- only put the essential to convey your message 
+- be minimalist
