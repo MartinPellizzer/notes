@@ -256,3 +256,46 @@ CLUTTER IS YOUR ENEMY
 - every new element you add takes up cognitive load
 - only put the essential to convey your message 
 - be minimalist
+- cognitive load during meetings is scarce
+- remove ink on paper for stuff that info, or even detract info
+- the more people perceive you graph as hard to read, the less they will read it
+- minimize the perceived cognitive load
+!!! less is more
+
+# clutter
+- it takes up space, but don't increase understanding
+- makes your visual appear more complicated than necessary
+- uncomfortable user experience
+- people don't want to take the time to dig deep
+
+# gestalt principles of visual perception
+1. proximity
+	- object close together appear they belong together
+2. similarity
+	- object of similar color, shape, size, orientate appear to be in the same group
+3. enclosure
+	- objects physically enclosed together apper to be in the same group
+4. closure
+	- when parts of a whole are mission, out eyes fill the gap (aka remove unnecessary borders)
+5. continuity
+	- similar to closure, the eyes separates shapes by paths
+6. connection
+	- objects physically connected appear to be in the same group (stroger than 2. similarities)
+
+# lack of visual order
+- good design fades into the background
+1. alignment
+	- tend to avoid center align, no reference line
+	- the goal is to create clean lines
+	- people usually read in 'z' pattern
+	- on top-left tell users how to read the graph
+2. white space
+	- don't fear whitespaces
+	- stop feeling the urge of filling every empty space on the canva
+	- white spaces in visual communication = pauses in public speaking (important)
+	- margin should remain free of thext and visuals
+	- don't stretch the visuals to fill the entire space
+	- use white spaces for emphasis
+	- if something is really important, even make it the only element on the page
+
+- non-strategic use of contrast
