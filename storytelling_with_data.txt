@@ -298,4 +298,24 @@ CLUTTER IS YOUR ENEMY
 	- use white spaces for emphasis
 	- if something is really important, even make it the only element on the page
 
-- non-strategic use of contrast
+non-strategic use of contrast
+	- clear contrast
+	- focus their attention
+	- lack of clear contrast = visual clutter
+	- if you want an element to stand out, all the other elements must be similar
+	- busy, confusing, exausting
+
+decluttering: step-by-step
+	1. remove chart borders
+	2. remove gridlines
+	3. remove data markers (e.g. the dots in a line chart)
+	4. clean up axis labels
+	5. label data directly (less legend)
+	6. leverage consistent color
+
+in closing
+	- more info, more cognitive load
+
+-----------------------
+FOCUS YOUR AUDIENCE'S ATTENTION
+-----------------------
