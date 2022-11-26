@@ -316,6 +316,91 @@ decluttering: step-by-step
 in closing
 	- more info, more cognitive load
 
+
+
 -----------------------
 FOCUS YOUR AUDIENCE'S ATTENTION
+-----------------------
+- preattentive attributes
+	- size
+	- color
+	- position
+
+	1. help direct your audience's attention to where you want them to focus it
+	2. can be used to create a visual hierarchy of elements to lead your audience
+
+- you see with your brain
+
+- a brief lesson on memory
+	- iconic memory
+		- super fast
+		- survival mechanism
+	- short-term memory
+		- limited in size
+		- graphs with 10 different colors are overwhelming
+	- long-term memory
+		- lifetime
+		- verbal memory
+		- visual memory
+
+- preattentive attributes signal where to look
+	- color (for example)
+	- orientation
+	- shape
+	- length
+	- width
+	- size
+	- curvature
+	- markes
+	- enclosure
+	- hue
+	- intensity
+	- position
+	- motion
+
+	- people perceive long lines to be greater in value than short lines (barchart)
+
+	1. drawing your audence attention quickly
+	2. create visual hierarchy ofinformation
+
+- PA in text
+	- color
+	- size
+	- outline
+	- bold
+	- italics
+	- separate spatially
+	- underline
+	
+	- you have only 3-8 seconds to convince your audience to read
+	- use PA to make your point quickly
+
+- PA in graphs
+	- warning: highlighting one aspect can make others harder to see
+	
+	- size
+		- relative size = relative importance
+		- important = make it big
+	- color
+		- when used sparingly > one of the most powerful attention tool
+		- start with gray, then add 1 color to grab attention
+		- when in doubt, use blue
+			- most people like it
+			- great for colorblindness
+			- prints well on black-and-white
+		1. use color sparingly
+		2. use color consistently
+		3. design with color blind in mind
+		4. be thoughtful of the tone the color conveys
+		5. consider whether to leverage brand colors
+	- position on page
+		- people read in z-flow
+		- put the most important stuff on the lef-top corner
+
+- in closing
+	- use preattentive attributes sparingly
+	- they are powerful stuff
+
+-----------------------
+THINK LIKE A DESIGNER
 -----------------------
