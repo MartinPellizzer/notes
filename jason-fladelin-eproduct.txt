@@ -116,4 +116,158 @@
 			7. proofread your article
 
 	- factors
-		- search. find. buy.
+		- search. find. buy. sourcing physical producat from chhina to sell on amazon
+			- lead time
+			- minimum order quantity
+			- profit margin potential
+			- quality control
+			- communication
+
+	- when in doubt, go step by step
+		- try to keep it less then 11 steps
+
+	- if factors
+		- less than 6 major points, each having 3-5 considerations
+
+	- for each step/factor (formula, love formula)
+		1. why it's important
+		2. what's involved
+		3. how to do it
+		4. what can happen
+
+	- product introduction
+		- keep it short and to the point (1 page)
+		1. here's what you should be able to do the first time you go through this product
+		2. here's what it can lead to over time if you continue to do it
+		3. here are the steps (or factors) involved
+		4. here why is these steps are important and why i chose them and put them in this order
+
+	- product conclusion
+		- slightly longer than intro
+		1. here is haow this can empower you...
+		2. here is how this can improve relationships with others around you
+		3. here is what you can achieve now, that you might not have been able to before
+		4. here is haoe the more you do it the better and easier it will become
+		5. here is encouragement to go do it right now
+
+	- product creation summary summary
+		1. intro
+		2. each step/facto
+		3. conclusion
+	
+	- only 3 factors that motivate everybody
+		- power
+		- achievement
+		- connection
+
+-----------------------
+4. CREATE YOUR PRODUCT
+-----------------------
+	- one sitting product types
+		- ebook
+		- audio
+		- video
+
+	- ebook
+		- should be the first info product you create
+		- least amout of technical understanding to create
+		- easiest for most of you audience to consume
+		- most of the internet and world knowledge is still written form
+
+		- create a pdf
+			- use google docs
+			- add a header with the name of the product
+			- add a footer with your name and page number
+			- make the intro, each step/factor and conclusion h1
+			- add your table of contents
+
+		- when you write your ebook, your only option is to write it from start to finish in one sitting
+		- so make sure you have all the material and a solid outline before you write your ebook
+		- if you don't do it in one sitting, there is a 90% chance you'll never get it finished. ever.
+
+	- audio product
+		- not now... check course when you'll be ready
+
+	- video product
+		- even harder than audio... check course when you'll be ready
+
+
+-----------------------
+5. CREATE YOUR SALES LETTER
+-----------------------
+	- short and to the point
+	- simple and straight forward
+	- created in one sitting
+
+	- for short-form product, short-form copy outperform long-form copy
+
+	- sales letter formula
+		1. headline
+		2. lead
+		3. bullet points
+		4. call to action
+		5. scarcity
+
+	1. headline
+		- write a few ones in less then few minutes and pick the best one
+		- unless you know better, use one of the following headlines
+			- "how to [benefit] in time without [pain point]"
+			- "how to [benefit] in time with [additional specifics]"
+
+	2. lead
+		- "for just [$], i'm 100% confident you'll be able to [achieve outcome] immediately after reading/watching/listening to this training. because i'm so confident, if you don't immediately feel you got 10x the value of your $ investment, i'll give you back your money. when you sign up, here's what you'll discover."
+
+	3. bullets
+		- master the art of bulletpoint
+		- it's the most persuasive thing in copywriting
+		- the bullets promise an outcome or benefit without revealing how to get it
+		- write as many as possible
+		- keep the 10-15 best bulletpoints
+
+		- bullet examples
+			- should you _? the answer will shock you.
+			- what really matters (and what doesn't) when you _.
+			- the # major mistakes people make when trying to _.
+			- what you should never do if you want _
+			- how to protect yourself from ___
+			- how in minuted you can go from ___ to ___
+			- the truth about ___
+			- the single most important thing to do/avoid when it comes to ___
+			- why ___ is better than [normal solution]
+			- what holds most people back from ___	
+			- the reason why you can't ___ (and what to do about it)
+			- a quick way to get over ___ so you can ___
+			- a ___ technique to get you ____
+			- a weird yet powerful wey to ___
+			- a ___ secret that lets you ___
+			- # mistake-proof ways to ___
+			- a little-known way to ___
+
+	4. call to action
+		- "sign up by clicking/tapping on the button below. you'll be take to a form where you imput your payment details. as soon as you fill out and submit the form, you'll be taken to a page where you can instantly download [product name]"
+	
+	5. scarcity
+		- "the price right now is just $# as an introductory special offer. in the very new future the price will increase to reflect the true value. sign up now or you'll have to pay more for this later"
+
+	- why you don't need proof
+		- your product is low-priced
+		- the sales letter is designed to create an impulsive purchase
+		- your outcome is so specific that in asd of itself it is believable
+
+	- if you wish, borrow proof
+		- quotes from thought leaders
+		- results from the process (not your product)
+		- statistics (very powerful)
+		- put proof after the lead
+
+	- best practices
+		- write in one sitting 
+		- optimize it over time (testimonials, tell a story, use a count down timer, etc...)
+		- keep look and feel as simple as possible
+		- for hosting there are free solutions like wordpress
+		- once you make profit, you can invest in your own hosting and web page software
+
+
+-----------------------
+6. GETTING TRAFFIC
+-----------------------
