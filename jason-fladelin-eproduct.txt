@@ -148,6 +148,8 @@ SUMMARY
 		- save/make money with outcome?
 		- price between $4 and $19
 
+
+
 -----------------------
 2. RESEARCH
 -----------------------
@@ -197,7 +199,7 @@ SUMMARY
 	
 	- parkinson's law
 		- the most important productivity tool (better than 80/20 rule)
-		- "works expands to fill the time available"
+		- "work expands to fill the time available"
 		- so put a time limit, or your research forever
 
 	- research done right
@@ -248,6 +250,25 @@ SUMMARY
 		- eliminating or reducing the negative emotions
 		- increase the positive emotions
 		- easily explained, understood, acted upon
+
+	- summary
+		- search
+			- youtube 
+			- google 
+
+		- note on google docs
+			- actionable tactics 
+			- easy to implement 
+			- easy to understand
+			- immediate gratificatio
+			- reduce negative emotions or increase poitive ones
+
+		- consider
+			- do that for 2 hours
+			- scan dozens of sources
+			- eliminate 50%
+			- eliminate another 50%
+			- the 6 page rule
 
 
 -----------------------
