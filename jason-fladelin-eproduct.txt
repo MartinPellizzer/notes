@@ -274,6 +274,27 @@ SUMMARY
 -----------------------
 3. OUTLINE THE PRODUCT
 -----------------------
+	- summary
+		- outline step-by-step procedure
+		1. intro
+			- keep it short and to the point (1 page)
+			1. here's what you should be able to do the first time you go through this product
+			2. here's what it can lead to over time if you continue to do it
+			3. here are the steps (or factors) involved
+			4. here why is these steps are important and why i chose them and put them in this order
+		2. each step
+			1. why it's important
+			2. what's involved
+			3. how to do it
+			4. what can happen
+		3. conclusion
+			- slightly longer than intro
+			1. here is haow this can empower you...
+			2. here is how this can improve relationships with others around you
+			3. here is what you can achieve now, that you might not have been able to before
+			4. here is how the more you do it the better and easier it will become
+			5. here is encouragement to go do it right now
+
 	- only 2 ways you can effectively teach something
 		- step by step
 		- factors
@@ -320,7 +341,7 @@ SUMMARY
 		1. here is haow this can empower you...
 		2. here is how this can improve relationships with others around you
 		3. here is what you can achieve now, that you might not have been able to before
-		4. here is haoe the more you do it the better and easier it will become
+		4. here is how the more you do it the better and easier it will become
 		5. here is encouragement to go do it right now
 
 	- product creation summary summary
