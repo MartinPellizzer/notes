@@ -357,6 +357,13 @@ SUMMARY
 -----------------------
 4. CREATE YOUR PRODUCT
 -----------------------
+	- summary
+		- write ebook
+		- header with name of product
+		- footer with your name and page number
+		- intro/steps/conclusion h1
+		- add table of content
+
 	- one sitting product types
 		- ebook
 		- audio
