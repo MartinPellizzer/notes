@@ -147,3 +147,46 @@ precedente
 		- la liquidita estiva e servita a pagare i costi dei due anni
 		  precedenti
 		- tra rate dei mutui, tasse
+
+-----------------------   
+#4 OFFER
+-----------------------  
+
+outcome:
+	- eliminare muffe, batteri, altri patogeni dai cibi	
+	- cibi sani	
+	- no problemi con l'uls
+	- no denunce dei consumatori
+	- piu produzione
+	- piu fatturato
+	- piu shelf life
+	- meno scarti
+	- cibi bio
+	- sanificazione piu veloce
+	- sanificazione piu economica
+	- sanificazione piu efficacie
+	- prodotto premium
+	- competitivita nel mercato
+	- crescita aziendale piu rapida
+
+likelihood of achievement:
+	- prova gratuita
+	- 30 giorni soddisfatto o rimborsato
+	- testimonials
+	- case studies
+	- dai contatti telefonici di clienti che gia lo usano
+	- fai una demo dimostrativa
+	- studi di universita
+	- bibliografia
+
+time delay:
+	- macchina consegnata in 7 giorni
+	- risultati visibili in 24 ore
+	- odore migliorato instantaneamente
+
+effort and sacrifice:
+	- spedizione gratuita
+	- dimensionamenti gratuiti
+	- installlazione gratuita
+	- done for you
+	
