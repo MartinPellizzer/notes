@@ -124,3 +124,23 @@ the three boxes of dirty communication tricks
 	3. bogus arguments
 
 	1. cognitive biases
+		1. superiority bias
+		2. self-serving bias
+	2. confirmation bias
+		- how can you use comfirmation bias to manipulate people?
+			1. mirror what they say
+			2. affirm them in their delusions
+			3. make a dazzling first impression
+		- escaping the confirmation trap
+			- start playing devil's advocate
+	3. attention bias
+			- violinist example
+			- praise people to boost self-esteem and motivation
+	4. cognitive dissonance
+		- how can you use cognitive dissonance to manipulate people?
+			- the foot in the door trick
+			- the low-ball trick
+			- exploiting the andorra effect
+	5. the priming effect
+	6. the anchoring effect
+	
