@@ -2,6 +2,28 @@ whys
 ----------------------------------------------------------------------------------------------------
 customers demand greener food additives
 exces ozono autodecomposes rapidly to produce oxygen and thus leaves no residues in foods from its decomposition
+ozone as an oxidant is used in water treatment, sanitizing, washing and disingection of equipment, odor removal, and fruit, vegetable, meat and seafood processing
+food safety assurance is a global concern
+ozone is GRAS (generally recognised as safe) chemical in 1997
+approved by the US FDA as an antimicrobial additive for direct contact with foods of all types (FDA 2001)
+the use of ozone has been approved in many countries, including USA, Japan, Australia, France, and Canada.
+
+surface cleaning and disinfection
+ozone used as an alternative (or complementary) cleaning and sanitizing agent. 
+clean-in-place (CIP) offers significant opportunities for food processors (including pharmaceuticals)
+
+food safety and shelf life extension
+ozone effectiveness dependent on pH, temperature, relative humidity, additives, amount of organic matter 
+storage grains have a number of isect related problems, damaging storing grain, who develop resistance to pesticide
+new ledislation will reduce the permitted pesticide amouns (even prohibit it) because of environmetanl problems.
+ozone used in fumigation to control insect development, fungi, mycotoxins in grains
+degradation of pesticide residues with ozone, including organophsphates and rganochlorinated compounds
+used both aqueous and gaseous
+
+nutrient and sensory aspects
+taste and sensory properties are the most important factor driving consuption and repeat purchase
+meet customers' demands for improved taste and nutrition, ozone may affect those parameters as a oxidizing agent
+effects will be dependent upon the mode of application, the dose, food composition and so on
 
 
 
