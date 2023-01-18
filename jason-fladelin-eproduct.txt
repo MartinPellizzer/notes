@@ -393,6 +393,7 @@ SUMMARY
 		- even harder than audio... check course when you'll be ready
 
 
+1.59.58
 -----------------------
 5. CREATE YOUR SALES LETTER
 -----------------------
