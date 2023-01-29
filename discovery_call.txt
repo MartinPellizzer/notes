@@ -1,9 +1,0 @@
-DISCOVERY CALL
-
-----------------------------------------------------------------
-INTRO:
-----------------------------------------------------------------
-IO: da dove vuole che cominciamo?
-CLIENTE: mi parli un po dell'ozono.
-IO: certamente. posso chiederle se ha già un'infarinatura a riguardo, così partiamo direttamente dall'applicazione dell'ozono nel settore X, oppure preferiche che le dia 30 secondi di infarinatura io?
-

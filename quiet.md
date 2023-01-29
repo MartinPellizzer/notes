@@ -533,4 +533,113 @@ when collaboration kills creativity
 -----------------------
 the rise of the new groupthink and the power of working alone
 
+stiffness
+creativity
+should innovative people work in highly social workplaces?
+he was always by himself
+quiet and solitary
+woz:
+	most inventors and engineers are shy and they live in their heads
+	almost like artists
+	I don't believe anything really revolutionary has been inventes by committee
+	work alone
+	you're going to be best able to design revolutionary products and features ig you're working on your own. not on a committee. not on a team.
+
+study
+	more creative people tended to be socially poised introverts
+	interpersonally skilled but not of an especially sociable or participative temperament
+	described themselves as independent and individualistic
+	introverts perfer to woek independently, and solitude can be a catalyst to innovation
+
+hans eysenck
+	introversion concentrates the mind on the task in hand
+	and prevents the dissipation of energy on social and sexual matters unrelated to work
+
+newton was one of the world's great introverts
+william wordsworth described him as a mind forever voyaging throug strange seas of thought alone
+
+
+
+we may want to:
+	teach our kids to work independently
+	give employees plenty of privacy and autonomy
+	but we do just the opposite
+
+new groupthink
+	elevates teamwork above all else
+	none of us is as smart as all of us
+	today working in groups in highly valued
+	people's respect for others is based on their verbal abilities, not their originality or insight
+
+janet farral and lonie kronborg
+	while extroverts tend to attain leadership in public domains, introvers tend to attain leadership in theoretical and aestetic fields
+	charles darwin, marie curie, patrick white, arthur boyd
+	developed new techiques in the arts, creating new philosophies, writing profound books and making scientific breakthroughs
+
+linux, wikipedia... made collaboration became a sacred concept
+most introverts are motivated by a desire to cotribute to the breader good, and to see their achievements recognized by a community they valued
+
+elite musicians believe that solo practice is where the real work gets done
+expert performers study in solitude
+serious study alone is the strongest predictor of skill
+even elite athletes in team sports spend unusual amounts of time in solitary practice
+solitude is magical
+ericsson sais: only whn youre alone that you can encgafe in deliverate practice
+you move at your onw pace, the perfect pace
+best deliberate practice:
+	- it takes intense concentration
+	- requires deep motivation
+	- workin on the task that's most challenging to younow
+patience is so underrated
+
+the best programmers are those who have been given privacy at work
+open-0plan offices have been found to reduce productivity and impair memory
+a recent study found that people learn better after a quiet stroll throught the woods
+multitasking does not exists, switching between task invreases mistakes by up to 50 percent
+rarely ventured out in public
+
+personal space is vital to creativity 
+freedom from peer pressure as well
+give it the time and energy and thoroughness it deserves
+loath to share your ideas for fear of their colleagues' judgement
+remove the threat of criticism from group work? or is it better to work alone?
+does brainstorm really work?
+	- don't judge or criticize ideas
+	- be freewheeling. the wilder the idea, the better
+	- go for quantity. the more ideas you have, the better
+	- build on the ideas of fellow group members
+nope. brainstorming doesn't actually work
+brainstorm privately, not publically
+studies have shown that performance hets worse as group size increases
+when you have talented and motivated people, they should be encouraged to work alone when creativity or efficiency is the highest priority
+online brainstormig is an exception, when managed properly the larger the group, the better it performs 
+
+psychologists offer 3 explanations on why group brainstorming sucks:
+	1. social loafing
+	2. production blocking
+	3. evaluation apprehension
+the fear of public humiliation is a potent force
+unnerve
+performing in public worsen your your performance
+recent research in neuroscience suggests that the fear of judgment runs much deeper and has more far-reaching implications than we ever imagined
+the dangers of group influence
+asch experiment (vision)
+peer pressure, conformism
+conformed despite knowing that the group was wrong, or whether their perceptions had been altered by the group?
+peer pressure not only is unpleasant but can actually change your view of a problem
+activation in the amygdala
+fear of rejection
+the pain of independence
+don't stop collaborating face-to-face, but refine the process
+everyone has natural stranghts and temperaments
+healthy mix of introverts and extroverts
+coperative learning can be effective when practiced well and in moderation
+silence and solitude
+low-key and relaxed
+meritocracy
+disappear
+
+-----------------------
+2. YOUR BIOLOGY, YOUR SELF?
+-----------------------
 
