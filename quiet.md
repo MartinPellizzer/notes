@@ -642,4 +642,46 @@ disappear
 -----------------------
 2. YOUR BIOLOGY, YOUR SELF?
 -----------------------
+4. is themperament destiny?
+horrifying wha-if propositions
+mouth dries
+can't get any word out?
+bore the audience?
+throw up onstage?
+stare at teh ceiling, tears welling, 
+how i allowed myself to get into this situation
+feel guilty for involving others in my drama
+waiting for the alcohol to work its magic
+still terrified
+i vow i will never make another speech
 
+strategies to holp with stage fright (anxiety)
+	soft spoken 
+	reflective
+	genetic?
+	placid and quiet
+	prefer one or two close frinds to a metty band?
+	like visiting new plaves?
+	were the yrisk takers or more cautious?
+	did they consider themselves shy or bold?
+	low-reactive infants more likely have become relaxed and confident
+	youve chosen the life of the mind
+	extroverted failed his english and science class because he'd been goofing around
+	but nothing mush bothers ralph
+	he admits his flaws cheerfully
+	temperament: inborn
+	personality: cultural influence and experience
+	amygdala: emotional brain
+	excitable amygdala makes you feel vigilant when meeting new people
+	introversion is one reason a sensitivity to novelty in general
+	alert attention
+	impulsive
+	feel deeply
+	mix of guilt and sorrow
+	putting thory into practice is hard for them
+	alertness, sensitivity to nuance, complex emotionally are highly underrate powers
+	agreeableness and concientiousness may be heritable
+	wild flies of self-doubt
+	also courage in my own convitions
+	feel horribly uncomfortable on my first day in a foreign city
+	lots of contraddiction
