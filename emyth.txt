@@ -82,3 +82,10 @@ pt.3 building a small business that works
 		- work on your life, not in your life
 		- "what do I whish my life to look like?"
 	13. your strategic objective
+		- list of standards
+			- money
+			- an opportunity worth pursuing
+			- who's the customer
+			- what's the feeling sold
+			- how long to complete the prototype
+	14. your organizational strategy
