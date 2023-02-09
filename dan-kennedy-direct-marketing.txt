@@ -195,4 +195,26 @@ CH.12 DIRECT-RESPONSE DIGITAL MARKETING
 		7. program as mobile friendly
 		8. get people to your site using social media and offiline marketing
 	- track everything
-	
+	- keywords are critical
+	- list of cta [see book] (include at least ten)
+		- dedicated phone number
+		- email link
+		- book appointment butto
+		- email capture offer
+		- pop up lead capture
+		- live chat tab
+		- below the fold video review with link to review page
+		- drop down menu with link on specific needs
+		- patient referral page
+	- test, test, test
+		- split test like crazy
+		- always try to capture their contacts
+		- if they leave the site, they will hardly come back
+	- follow up
+		- have a relentless, ongoing email follow-up system till they buy, die or unsubscribe
+		- offer reliable, relevant content
+		- interesting, engaging, and fun
+		- have contest once in a while
+		- keep it up with technological changes
+		- stay withing the 3-click rule
+	- reviews speak volumes
