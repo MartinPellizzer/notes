@@ -1,3 +1,92 @@
+SUMMARY
+-----------------------
+PREFACE:
+	10 commandments
+		1. there will always be an offer or offers
+		2. there will always be a reason to respond right now
+		3. you will give clear instructions
+		4. there will be tracking, measurement, and accountability
+		5. only no-cost brand-building
+		6. there will be follow-up
+		7. there will be strong copy
+		8. it will look like mail-order advertising
+		9. results rule. period.
+		10. you will be a though-minded disciplinarian and put your business on a strict direct marketing diet
+
+#1: An offer they can't refuse
+	two types of offers
+		1. the direct purchase offer (BOF)
+		2. the lead-generation offer (TOF)
+
+#2: There will be a reason to respond right now
+	urgency
+	scarcity
+	exclusivity
+
+#3: You will give clear instructions
+	zero chance for confusion
+	zero anxiety for uncertainty
+	add section "what to expect at your first appointment"
+	teach them how to easily use your difficult product
+	always aswer the "what happens next?" question
+
+#4: There will be tracking, measurement, and accountability
+	vaguness must be banish
+	if you can't measure it, you can't improve it
+
+#5: Only no-cost brand-building
+	never pay for brand-building
+
+#6: There will be follow-up
+	every time someone show interest, capture them
+	follow up on:
+		incoming calls
+		trade shows
+		referrals
+		new customers (welcome to the family)
+	provider indifference is the #1 reason customers leave
+
+#7: There will be strong copy
+	we are immune to noise
+	attention without relevance and authority is worthless
+	don't be intimidated by criticism, write bold copy
+	four warnings:
+		1. sell to their instincts
+		2. write emotionally, not factually
+		3. promise big, don't be timid
+		4. aggressive advertising a weak message is a waste of money and vocal cords
+
+#8: It will look like mail-order advertising
+	sales letter only style
+
+#9: Result rule. Period.
+	split test everything
+	analyze competitors campaigns	
+	the only vote that count is the one from the customer
+
+#10: you will be a tough-minded disciplinarian and put your business on a strict direct marketing diet
+	the secret to success it to obsess
+	analyze, plan, execute (obsessively)
+	manage with numbers, not opinions
+
+Tools to develop:
+		front-end
+			lead generation magnets: books, reports, videos...
+			direct marketing websites: capture leads for follow-up
+			main sales letter: sell core products/service/event/appointment
+			follow-up system: sequence to convert lead into customer
+			in-bound call scripts: capture contect info
+		backend
+			cross-selling
+			seasonal/holiday promotions
+			customer newsletter (goodwill/relationship nurturing)
+			referra stimulaiton campaigns: [book no bs guide to max ref.]
+			late or lost customer re-activation campaign
+			catalog, offline and/or online, of all goods and services
+	
+
+
+
 - who to model your marketing after?
 	- modeling can be good, but only in you choose the right model
 	- you make more money selling shovels than searching for gold
@@ -282,3 +371,21 @@ CH.16 THEY ALL LAUGHED WHEN I STOPPED SELLING MY PRODUCTS -
 	- bt 8: find innovative way to be chased and not to chase
 
 CH.17 AN OPTOMETRIST WHO ACHIEVED UNEXPECTED SUCCESS WITH DIRECT-RESPONSE MARKETING
+	- publish a book on a topic in their field of expertise
+
+CH.18
+	- first put something out there, then make it perfect
+
+SECTION 3
+RESOURCES
+=======================
+
+
+SECTION 2
+APPLICATION
+=======================
+
+SECTION 2
+APPLICATION
+=======================
+
