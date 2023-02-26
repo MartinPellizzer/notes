@@ -1,0 +1,10 @@
+9 basic dimensions:
+	mass
+	length
+	time
+	temperature
+	amount
+	electric current
+	luminous intensity
+	plane angle 
+	solid angle

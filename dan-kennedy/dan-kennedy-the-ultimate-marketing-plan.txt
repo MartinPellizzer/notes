@@ -49,7 +49,33 @@
 	tailoring and delivering your message to the right target
 	in every business there are must-buy-now buyers
 
-#: Proof
+#4: Proof
 	message
-		
+	people lost most of their trust
+	offer too good to be true, people don't believe you	
+	people don't trust free stuff
+	don't trust 50% off
+	don't trust guarantees
+	don't trust testimonials
+	the ultimate rule:
+		prove every single item in you case
+	proponderance of proof
+		pictures that prove your case
+	testimonials are facts, statements are claims
+		the absense or underuse of testimonials is the #1 error
+		a testimonial is a pair of snapshots - before/after
+		make 2 lists
+			1. list every claim, feature, benefit, and fact
+			2. list every doubt, fear, or question that might exist in your prospective mind
+		celebrity endorsements [book]
+	association
+		tell big names you associat with, so you seem big too
+	pictures
+		before/after
+		can't do/can do	
+		huge group of people listening to you on stage
+	math	
+		every minute of every day, 14 people die of Disease X
+
+#5: Perception
 
