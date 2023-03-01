@@ -5,4 +5,5 @@ OZONOGROUP
 >> (1 h) czz
 
 HOME
-main - index, about, privacy (programmatic)
+main - about, privacy (programmatic)
+mailerlite - fix form, first email, with link for delivery
