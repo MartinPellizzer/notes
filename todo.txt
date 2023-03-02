@@ -5,5 +5,6 @@ OZONOGROUP
 >> (1 h) czz
 
 HOME
-main - about, privacy (programmatic)
+main - fix home page, add about, add privacy (programmatic)
+post - add numbers to list items, add images, split paragraphs in multiple lines, add intros to h1 and h2
 mailerlite - fix form, first email, with link for delivery
