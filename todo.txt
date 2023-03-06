@@ -5,6 +5,8 @@ OZONOGROUP
 >> (1 h) czz
 
 HOME
-main - fix home page, add about, add privacy (programmatic)
-post - add numbers to list items, add images, split paragraphs in multiple lines, add intros to h1 and h2
-mailerlite - fix form, first email, with link for delivery
+main - add about, add privacy (programmatic)
+homepage - add hero section (lead magnet)
+!!! finish post, fix p tag empty line before h3, image class, h1, name images
+!!! pinterest - create pins with pillow
+!!! mailerlite - fix form, first email, with link for delivery
