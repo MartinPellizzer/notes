@@ -5,8 +5,10 @@ OZONOGROUP
 >> (1 h) czz
 
 HOME
-main - add about, add privacy (programmatic)
+main - add about
 homepage - add hero section (lead magnet)
-!!! finish post, fix p tag empty line before h3, image class, h1, name images
-!!! pinterest - create pins with pillow
-!!! mailerlite - fix form, first email, with link for delivery
+next post, fix p tag empty line before h3, image class, h1, name images
+scrape hundreds of images
+
+!!! mailerlite - fix form, second email
+! website general fixes to publish it correctly (name files, links not broken, etc...)
