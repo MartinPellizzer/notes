@@ -1,14 +1,26 @@
 OZONOGROUP
+----------------------------------
 >> (1 h - 2 sections) la guida definitiva alla sanificazione con ozono nell'industria alimentare
 >> (1 h - 2 studies) recent + old, notepad++ summary + highlight, organised x sectors
 >> (1 h) green sensor pcb
 >> (1 h) czz
 
 HOME
-main - add about
-homepage - add hero section (lead magnet)
-next post, fix p tag empty line before h3, image class, h1, name images
+----------------------------------
 scrape hundreds of images
 
-!!! mailerlite - fix form, second email
-! website general fixes to publish it correctly (name files, links not broken, etc...)
+add categories?
+add tags?
+add breadcrumbs
+
+sort posts by date
+
+add about page
+
+format bullet lists: bold
+new post
+
+
+pinterest
+-----------------------
+match pins with category/board

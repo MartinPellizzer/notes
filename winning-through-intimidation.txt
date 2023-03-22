@@ -34,3 +34,5 @@ the bottom-line theory
 
 power posture:
 	the theory of makeable-deal
+
+the assumption theory: assume nothing
