@@ -1,4 +1,7 @@
+tweet: trusting your gut is ok. but unmasking a liar with great iterrogation skills is 10x better.
+
 control
+dangerous
 honesty, empathy, sense of justice, fair play
 nervous, anxious, scared
 aggressive
@@ -203,3 +206,89 @@ lying is hard work
 
 this takes a lot of cognitive load
 the more you lie and get away with it, the more inclined you are to lie again.
+
+### our parents teach us to lie 
+parents lie to their kids all the time
+stop feeling guilty about lying to your kids about Santa
+
+
+### a liar is made
+becoming a good liar is a learned skill
+lie > undetected > positive reinforcement > more lies > lies become automatic
+cronic liars are a real thing
+when it comes to deception, practice really does make perfect
+master the stress of lying
+the high of getting away with lying become a drug, an addiction
+sometimes, old body language "tells" are not enough to spot a liar
+
+### a liar is caught
+old body language = reading a person's stress signals as deception
+not everyone feels stress about lying
+master manipulators
+reflection of deception
+	1. facial expressions
+	2. gestures and body language
+	3. voice
+	4. verbal style
+	5. verbal statement
+tips: 
+	- move closer to people side to signal you are on the same team
+	- mirror to increase rapport fast
+	- use the world we
+
+## the no-stress barometer process
+overwhelming amount of info, still you need to act fast while reducing stress
+too many choices = shut down
+not alone
+more choice > more anxiety
+never second-guess
+
+**worthy of thread**
+1. gathering intel
+	- establish baseline
+		- behaviour
+		- tone of voice
+		- pitch
+		- word choices
+		- nonverbal + verbal signals
+2. the wiretap
+	- expose the meaning behind the words
+	- words vs nonverbal? who wins?
+		- talkative and animated, of flat-out refusing to talk?
+3. the stakeout
+	- facial faux pas
+	- microexpressions
+	- mismatch between expressions and words
+4. the full body surveillance
+	- shoulder shrugging?
+	- leg rubbing?
+5. the interrogation
+	- roll up your sleeves and finish them off
+	- breaking technique
+	- learn questions and tricks
+	- the mental demands that give the liar nowhere to run or hide
+
+## post mortem: the self-exam
+APE > analyze (post-mortem to improve next time)
+paranoia
+hypervigilance
+heal yourself, cure the dishonsty
+
+## what's at stake?
+why do you thing he's lying?
+what do you gain in unmasking him?
+intuiton
+cocky
+stupid
+the less they have to lose, the less the anxiety, the more the lies
+emotional investmet is the biggest predictor of your success
+don't live in denial
+toxic liars
+
+## recap
+we are all born liars ("good" lies vs bad lies)
+we are all born lovers, too
+always ask yourself, "wht's at stake"
+
+
+## when to use the bs barometer

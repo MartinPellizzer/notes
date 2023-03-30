@@ -19,6 +19,7 @@ add about page
 
 format bullet lists: bold
 new post
+fix toc inner links
 
 
 pinterest

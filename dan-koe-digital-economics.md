@@ -49,3 +49,63 @@
 2. the feelings that come from inspiration
 3. the feelings that come from entertainment
 
+
+## APAG FRAMEWORK
+1. attention
+	- relevance
+	- awareness
+	- effort
+	---
+	- big problem, benefit, idea
+	- transformation process, timeframe, negative experience
+	- WARNING: first create the post, then the headline
+2. perspective
+	- amplify problem/enemy
+	- people want to feel understood
+	- problems, benefits, examples, metaphors, quotes, tweets
+	- personal or popular stories, comparisons, concepts
+3. advantage
+	- present your credible argument and sell them on the idea (product)
+	- show them better way to do things
+4. gamify
+	- give step-by-step advice
+	- quests, missions, etc...
+	- all this leads to transformation
+	- clear, coincise, and actionable way to get a specific result
+	- focus on clarity
+SUMMARY: problem, benefits, and solution
+writing structure:
+	1. hook
+	2. lead (introduce and agitate)
+	3. body (key points - list or not)
+	4. conclusion (summary or actionable advice)
+	5. cta (what's next?)
+types of content:
+	- anecdotes
+	- research
+	- examples
+	- metaphors
+	- quotes
+	- tweets
+	- videos
+	- other content
+story:
+	- problem to resolution
+
+## threads 
+1. hook
+	- relevance
+	- awareness
+	- effort
+2. body
+	- every tweet in the thread should be stand alone
+3. call to action
+	- recap
+	- ask for retweet the first tweet of the thread
+	- plug newsletter, product, or service
+	- tag list of people who inspired the thread (optional)
+	- ask them to follow you
+
+
+## tweets 
+	- see database of structures
