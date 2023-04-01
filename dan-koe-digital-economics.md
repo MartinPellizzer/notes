@@ -92,6 +92,7 @@ types of content:
 story:
 	- problem to resolution
 
+
 ## threads 
 1. hook
 	- relevance
@@ -109,3 +110,9 @@ story:
 
 ## tweets 
 	- see database of structures
+
+
+## routine
+	- write 1h a day
+	- write down your routine
+	- saturday: write thread
