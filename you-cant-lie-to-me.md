@@ -534,4 +534,130 @@ jr:
 
 STEP 2: THE WIRETAP
 ----------------------------------------------
+start-stop sentences are a hot spot
+this chapter is about the verbal side of dishonesty (speech)
+online communication is verbal, you can't see their body language
+as you get older, you become better at verbal tahn body language
+changes in speech rate, colume, pitch
 
+the voice
+	study: surgeons with dominant tone of voice are 2.5x more likely to be sued
+	the vocal tone will waiver from baseline in up to 95%
+	it's one of the most reliable indicators of deception
+	fun fact: people are more likely to cheat when the lighting is low, feel more anonymous
+	acted more selfishly when wore sun-glasses
+	- vocal tone rises when angry or wxcited
+		- liars usually raise their voice when trying to convince you of something
+		- the pitch of women's voices will shoot up when they are speaking to a man they find attractive
+	- vocal tone lowers with sadness and shame
+
+statement analysis (effective tool)
+	- liars are tightrope walkers
+	- they carry a lot of weight, easy to put them off balance
+	1. teeter-tottering
+		- their speech wobbles around, deviating from the baseline
+	2. convincing not conveying
+		- overwhelm you with brute force
+		- use lots of absolutes and extreme language at full speed
+	3. backsliding
+		- the stress is high, so run and hide
+
+teeter-tottering
+	- liars don't like to talk in the negative
+		- "nah, it's fine..."
+	- mixed-up tenses (great marker for a hot spot)
+		- "I was ... I'am... "
+	- the word "left", there's always drama behind (time to probe more)
+	- double talk / details that don't add up
+		- saying things in weird way
+	- entering the twilight zone
+		- look for time and space details, sometimes they are incorrect
+		- glossing over part of the story
+	- the sorts, kinda disorder
+		- slips and just, about, pretty, probably, really, much, still, few
+	- too much pausing
+		- long weird pauses in weird spots are a hot spot
+	- not enough pausing
+		- how can you remember minor details in a blink of an eye?
+	- start-stop sentences
+		- stop sentenced halfway and start something new unrelated is HS
+	- varied speech rate within a sentence
+
+convincing not conveying
+	- honest people convey info
+	- liars try to convince us that their story is the truth
+	- truthful people expect to be believed, liars fight to be believed
+	- beware of "puffing up"
+	- liears throw their friends in the mix with "character testimony"
+	- absolutes, extreme language, unnecessary adjectives, and getting angry
+
+	character testimony
+		- "just ask my friends, they will tell you"	(most commone cnc)
+		- "i swear on ..."
+	- never-never land
+		- never use the world "never"
+	- the shoulda, coulda, woulda syndrome
+		- "i would never ..." vs "i didn't do that"
+
+	8 phrases liars love
+		1. what kind of a person do you think i am?		
+		2. i'd haveto be stupid to do something like that
+		3. just ask my friends, they'll tell you i would never do anything like that
+		4. i swear to god
+		5. my word is my bond
+		6. i knew this was going to happen to me
+		7. why don't you question the person down the street?
+		8. you think i'm lying to you?
+	- oveuse of adjectives
+		- only nouns and verbs are needed, the rest is suspicious	
+
+	- psychopaths, the ultimate "convincers"
+	- escalation to anger
+		- inappropriate anger is a telltale of cnc
+		- fake anger to distract from the truth
+	- flip the script
+		- turn the question (or matter) back to you
+
+backsliding
+	- shrink or back up on that thightrope
+	- master of obscurity and camouflage
+	- sneaky statements, overwhelming politeness, self-deprecation
+	- they want you to forget the entire incident ever happened
+
+	- being overly polite
+		- beware of too many sirs or ma'ams
+	- self-deprecation
+		- liars minimize
+		- liars crack jokes to get out of the heat
+	- the missing "I"
+	- distancing language
+		- "they went to the house" versus "they went to my house"
+	- smokescreaning
+		- changing of subject
+	- repeating the question (and other verbal fillers) 
+	- minimizing language
+		- by the way, just so you know, obviously, 
+	- whtch your big buts
+		- but
+		- i know you're not going to believe this, but ...
+		- i know this is going to sound strange, but ...
+	- dumbing down the crime
+		- did you gossip about me? i didn't say anything bad about you.
+	- just the facts, jack
+		- say the bare bones, as little as possible
+		- never talk about feelings
+		- avoid conjunctions
+	- percentage violation
+		- when people talk more about the before/after of the moment in question is a hot spot
+
+ask for some truth
+	set expectation
+
+recap:
+	- liars are on a tightrope
+	- listen to changes in vocal tone, 95% of people change their speech rates, volume, and pitch when lying
+	- remember your baseline
+
+## 6
+STEP 3: THE STAKEOUT
+-----------------------
