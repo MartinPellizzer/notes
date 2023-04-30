@@ -13,6 +13,7 @@ rulers
 king
 courtiers
 soldier
+troops
 pacifist
 capitan
 army
@@ -24,26 +25,37 @@ arsenal
 maneuver
 formation
 bloodshed
+life
+skills
+experience
+moves
+
+
+dirty, unfair
 
 power, courage
 
-sword: weapon, edge
-armor:
+sword, weapon, edge, pear
+armor,
 
-plan: strategy, tactic
-battle: fight, combat, confront
-battlefield: territory, ground
+plan, strategy, tactic
+battle, fight, combat, confront, dispute
+battlefield, territory, ground
 
-hero: ally
-enemy: rival, opponent
+hero, ally
+enemy, rival, opponent, wolves
+gods
 
-victory: victor, success
-defeat: failure, downfall
+victory, victor, success
+defeat, failure, downfall
 
-attack: strike
-defend: protect
+attack, strike
+defend, protect
 counterattack
 act
+aid
+aim
+arm
 analyze
 avoid
 challenge
@@ -56,7 +68,6 @@ force
 trace
 trust
 surrender
-aim
 win
 balance
 rush
@@ -87,25 +98,49 @@ judge
 vanish
 desert
 find
+limit
+resolve
+declare
+struggle
+control
+gain
+whine
+tolerate
+outwit
+identify
+waste
+stagnate
+misled
+bless
+imagine
+bring
+elevate
+craft
+walk away
+master
 
-strong
-strength
-weaknesses
+strong, strength
+weak, weakness
 
 good
 evil
 
-attention
 
-scar: wound
+scar, wound
 danger
 pain
 peace
 
 mind
 wise
-logic: rational
+logic, rational
 knowledge
+advice
+clever
+thought
+read
+self-mastery
+
 heart
 
 anger
@@ -115,94 +150,87 @@ blame
 
 vigilant
 
-mutiny: rebellion, desertion
-aggressive: violent, barbaric, dangerous
+mutiny, rebellion, desertion
+aggressive, violent, barbaric, dangerous
 
 tragedy
 justice
-
-dirty
-relic
-wolves
 endless
-self-mastery
-clever
-thought
-knowledge
-gods
-virtue
-disease 
-remedy
-side
-limit
-disputes
-bears no arms
-advice
-troops
-identify
-unfair
-gain
-morality
-advantage
-chessboard
-arms
-crisis
-solution
-superior
-unconquerable
+
+problem, disease, crisis, end
+solution, remedy, panaces, advantage, goal
+
+
+beware, attention
+
 range
-spear
 infuriate
-whine
-control
-tolerate
-outwit
-hope
-bless
-misled
-moves
-skill
-imagine
-elevate
-bring
-craft
-goals
-walk away
-heavy
-stuck in the ground
-light on their feet
-see far and wide
-struggle
-resolution
-emotions
-end
-declare
-skills
-confidence
-experience
-repress
-doubts
-spirit
-constant 
-practice
-timeless
+
+
+
 principles
-arm
-elusive
-problems
-energy
-waste
-read
-aid
-heart of battle
-seeds
-mind
-offensive
-stagnate
 lessons
-practical
-deep
+virtue
+
+
+[adjectives] -----------------------
+elusive
+offensive
+heavy
+unconquerable
+timeless
+superior
+
+
+[analogies] -----------------------
 temper of iron
-fate
+heart of battle
+stuck in the ground
+light on your feet
+bears no arms
+see far and wide
+seeds
+fate, hope
+relic
+
+
+[themes] -----------------------
+morality
+doubts
+clarity: goal, enemies
+emotions
+energy
+confidence
+practice
+
 
 [tweets draft] ----------------------- 
+You need clarity.
+
+Learn to smoke out your enemies, especially people who stand in your way and that disguise their intention while pretending to be on your side.
+
+Don't be naive. They are withing your ranks. Expose and fight them.
+
+
+
+Beware of people who:
+
+- Show hostility
+- Stand in your way
+- Are subtle and evasive
+- Disguise their intention
+- Represent what you loathe
+- Pretend to be on your side
+
+Once you have them in sight, silently declare war.
+
+
+[ideas] -----------------------
+life is an endless battle and conflict
+you can't fight effectively unless you can identify your enemies
+to spot them by the signs and patterns that reveal hostility
+
+your opposites can fill you with purpose and direction
+people to react against
+they are a source of energy
+don't be naive. with some enemises there can be no compromise, no middle ground
