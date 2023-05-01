@@ -174,6 +174,34 @@ correct all errors
 
 
 [21. rating your writing level] -----------------------
+big market, small words
+fog index:
+1. take a sample of your copy
+2. count the words in each sentence
+3. divide the number of words by the number of sentences (average sentence length)
+4. count the number of long words (3 syllables or more)
+5. number of long words / number of words = % of long words
+6. add the average sentence length to the percentage of long words
+7. multiply the total by 0.4 to get the grade level
+
+
+[22. seven steps to writing great copy] -----------------------
+1. become an expert on the product or service you want to sell
+2. know your prospect
+3. write your headline and subheadline: headlines short as possible, sub less than 16 words
+4. write your copy (braindump first)
+5. edit your copy
+6. incubate
+7. take a final look at your copy
+
+
+[23. proving the point - ad examples] -----------------------
+
+
+[24. a fluke of nature] -----------------------
+
+
+[26. the more you learn] -----------------------
 
 
 [] -----------------------

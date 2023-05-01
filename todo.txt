@@ -1,27 +1,30 @@
-OZONOGROUP
-----------------------------------
->> (1 h - 2 sections) la guida definitiva alla sanificazione con ozono nell'industria alimentare
->> (1 h - 2 studies) recent + old, notepad++ summary + highlight, organised x sectors
->> (1 h) green sensor pcb
->> (1 h) czz
+LVL 2
 
-HOME
-----------------------------------
-scrape hundreds of images
+20m copy
+10m ---
+20m ship 30
+10m ---
 
-add categories?
-add tags?
-add breadcrumbs
+20m twitter
+10m ---
+20m tweets/33war
+10m ---
 
-sort posts by date
+20m newsletter
+10m ---
+20m flask
+10m ---
 
-add about page
+20m web design
+10m ---
+20m keywords
+10m ---
 
-format bullet lists: bold
-new post
-fix toc inner links
+total = 4h
 
-
-pinterest
 -----------------------
-match pins with category/board
+
+* 15 min ozone
+* 20 min five rings
+* 45 min ryan lee
+
