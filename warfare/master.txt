@@ -1,8 +1,5 @@
 [war related words] -----------------------
-war
-warfare
-conflict
-warrior
+war, warfare, warlike, warpath
 spirit
 flank
 realm
@@ -26,9 +23,17 @@ maneuver
 formation
 bloodshed
 life
-skills
+skill, ability
 experience
 moves
+camp
+bridge
+poison
+courage
+nobile
+resolute
+confident
+tyranny
 
 
 dirty, unfair
@@ -39,7 +44,7 @@ sword, weapon, edge, pear
 armor,
 
 plan, strategy, tactic
-battle, fight, combat, confront, dispute
+battle, fight, combat, confront, dispute, duel
 battlefield, territory, ground
 
 hero, ally
@@ -49,17 +54,9 @@ gods
 victory, victor, success
 defeat, failure, downfall
 
-attack, strike
-defend, protect
-counterattack
-act
-aid
-aim
-arm
 analyze
 avoid
 challenge
-combat
 command
 focus
 welcome
@@ -118,6 +115,20 @@ elevate
 craft
 walk away
 master
+shock
+disdain
+scare
+sharp
+divide
+charge
+suck
+attract
+bow
+cut
+resent
+question
+respect
+panic
 
 strong, strength
 weak, weakness
@@ -133,6 +144,7 @@ peace
 
 mind
 wise
+conventional wisdom
 logic, rational
 knowledge
 advice
@@ -246,17 +258,77 @@ your enemey is the polar star the guies you
 given that direction, you can enter battle
 
 whining and argument
+power
+most striking of all was her style
+attacking them directly
+appetite for battle
+leading the party
+
+define her image as determined, powerful, self-sacrificing.
+
+obsess
+your enemies, those you stand sharp against, will help you to forge a support base that will not desert you.
+do not crowd into the center, there is no room to fight in a crowd
+polarize people, drive some of them away, and create a space for battle
+everything 8in life conspires to push you into the center, the center is the realm of compromise
+getting along with people is an importatn skill to have , but it comes with a danger: 
+by always seeking the parth of lear resistance, the path of concilliation, you forget who you are
+and you sink into the center with everyone elde
+instead see yourself as a fighter, an outsider surrounded by enemies
+constant battle will keep you strong and alert
+do not worry about antagonizing people, without antagonism there is no battle, and without battle ther no victory
+victory over your enemies will bring you a more lasting popularity
+
+
+[thread] -----------------------
+I just devoured 5 war strategy books in 5 weeks (yes, it was wild).
+
+Here they are 5 lessons I learned:
+
+1. 
+Choose your battles wisely.
+
+You can avoid 90% of battles. Those that are high risk and low profit are a waste of your time. Maybe even dangerous. Don't take useless risk. That's a fool's choice.
+
+Suppress your ego and don't draw your sword without a good reason.
+
+
+2.
+You are your worst enemy.
+
+Nothing sabotage you like fear. You may be the strongest against the weakest, but you will lose if you don't believe in yourself. Competence is not enough. You also need confidence.
+
+Have confidence and let your opponent be the one who's scared.
+
+3. 
+Be grateful of your enemies.
+
+They give you purpose, strength, and energy. They represent what you despite the most, and so they give you clarity on what to fight for.
+
+Use them as a compass. When you see them go to one direction, you know you have to go to the opposite one.
+
+4.
+Back attacks are more dangerous than front attacks.
+
+You can easily dodge a front attack, but hardly a knife in the back. Backstabbers are subtle, elusive, and silent. Learn to smoke them out before they can do serious damage.
+
+Betrayal hurts. So stay alert.
+
+5.
+With some enemies, there's no middle ground.
+
+Don't be delusional. You can't please everyone. Some people will declare war to you even if you're the kindest, most honest, and most generous person in the world.
+
+So you must get ready to fight when the time comes, wheter you like conflict or not.
 
 
 
 
-[concepts] -----------------------
-who are your enemies? what to do with them?
-	identify them > fake friends > inwardly declare war > source of energy > archenemies
 
-You can't escape conflict
-Blame only youself
-Feeling lost
-You are your biggest enemy
-Your enemy gives you purpose and direction
-Don't listen to people who live in a dream
+[templates ]----------------------- 
+be...
+when...
+do...
+don't...
+you...
+better...
