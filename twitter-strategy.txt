@@ -1,0 +1,10 @@
+visible in the feed:
+- recent tweet from someone you follow
+- popular tweet from someone you follow
+- recent and popular replies from someone you follow
+- tweet liked by people you follow
+- trending tweet in a topic you follow
+
+the plan to boost your growth:
+- build relationships
+- optimize for trending status
