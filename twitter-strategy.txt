@@ -59,3 +59,18 @@ follow 50-200 people who:
 unfollow or mute people who:
 - aren't related to your niche
 - aren't inspiring you
+
+groundwork:
+- create 2 lists: peers and big accounts
+- use list feeds or engagement builder to interract
+
+find people to follow:
+- go to trending tweets in your niche
+- use recommended follows
+- look at who they follow
+
+good profile:
+- real name and profile picture
+- bio to establish credibility, satnd out, and give a reason to follow
+- pinned tweet should add value, not promote
+- no more than 1 or 2 links
