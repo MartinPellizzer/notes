@@ -1,0 +1,118 @@
+2:
+
+semantics = user behavior (not dictionary)
+clustering:
+	1. documents
+	2. queries
+	3. users
+*** target everything to stay safe
+
+3: topical map
+	principles:
+		1. vastness
+		2. depth
+		3. momentum
+	1. core section (deep, sanificazione?)
+	2. author section (flat)
+	choose a central entity (ozono?)
+	choose a source context (how do you make money?)
+
+4: topical map components
+	main search intent?
+	keyword of main search intent must appear in all articles in main content
+	find main predicates
+
+5: central entity, central search intent, site-wide ngrams
+	central entity = ozono (appear in all articles, site-wide)
+	central serach intent = sanificazione (apper in all articles too, sell generators)
+
+6: title tag
+	every webpage has a macro context
+	use chatgpt for outline
+	use "and" for amplyfing context (religion and belief structure in germany)
+	repeat key words in articles in core section to make the context clear
+
+7: url
+	hierarchical
+	url with common words should be linked together
+	most important attribute to the top of url
+	urls are the first thing bots see
+	use a proper cotextual crawl path
+	convince the search engine faster and in an easier way that your content is worth crawling
+	in the core section is more flat (everything comes under "visa", sanificazione?)
+	in the author section is more deep (everyting comes under "life")
+
+	3 herachy?
+		1. root
+		2. seed
+		3. node
+	
+	root connected to home page?
+	seed connected to root
+	node connected to seed
+
+	you define the macro contex of the article accordingly to the path and the links of the urls too
+
+8: meta description (not ranking factor)
+	summary of article
+	repeat title (slightly different version) and expand further
+	create a template, pattern to make search engines recognize it easier, be consistent
+	use sinonims and add micro cotenxts
+
+9: macro-micro context
+	most of hte article must be about macro
+
+10: image url and alt tag
+	expand and variate further on title tag, url, description
+	reflect topicality better to increase relevance
+	image url try to not exceed 3 words (ex. ozono-sanificazione-casa)
+	image alt tag is variation or expansion of image url
+	no sentences, just works and conjunctions
+	unique images, show search engines you put the effort
+
+11: publication date
+	momentum
+	pattern, choose one, not random, use a frequency
+	don't public during major updates
+
+12: labels
+	color code articles for publishing
+
+13: code language (rules, standardization) for brief
+	fs: featured snippet (40 words, 320 character limit)
+	paa: people also ask (the definitive answer should be given in a single sentence)
+	anchor text: word -> url
+	listing: list items for fs
+	definitive answer: long-form mentioning answer
+	"term": include the term with definition or context
+
+14: koray's framework
+	- contextual vector
+	- contextual hierarchy: h1, h2, h3
+	- contextual structure
+	- contextual connection
+
+	query terms (keyword) -> contextual vectors (generate questions) -> order them -> assing hX ->
+		then create structure (how to answer the question, in what format, sentences, images, statistics) ->
+		then internal links and text
+
+-------------------------------------------------------------------------------------------------------------
+
+15: contextual and knowledge domains
+	understand how search engine generate questions from keywords
+	left side of query term "ozono", right side attribute "sanificazione"
+	generate query based on source context (ozono sanificazione)
+
+16: attribute filtration
+	filter attribute to support source context
+	3 criteria:
+		1. attribute prominence (?)
+		2. attribute popularity (keyword volume)
+		3. attribute relevance (relevant to your source context)
+
+17: root of semantic content network (h1?)
+	search intent (what to know before going to germany? - know/go)
+	ozono: cosa devi sapere su questo gas
+
+18: contextual vector and question generation
+	use questions for heading so that search engines don't have to do it for you
