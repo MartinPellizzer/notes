@@ -116,3 +116,50 @@ clustering:
 
 18: contextual vector and question generation
 	use questions for heading so that search engines don't have to do it for you
+
+19: attributes for question generation
+	1. root attributes
+	2. rare attributes
+	3. unique attributes
+	
+	four types of questions:
+		1. boolean
+		2. definitional
+		3. grouping 
+		4. comparative
+	
+	h1 should hint all the h2 under it
+	h2 should hint all the h3 under it
+
+20: question generation
+	find the best question (shorter but semantically correct)
+	
+21. contextual structure
+	write the brief of the section
+
+22. contextual coverage and contextual flow
+	main purpose of the article
+	h1 general summary
+	take knowlege base > ... > create knowledge base > verbalize knowledge base
+	organize page
+	organizing web pages and content is your competitive advantage to AI
+	AGI based info retrival?
+
+23. contextual connection and bridges
+	internal links
+	don't use links at the beginning
+	use links within the content but with enough space between them
+
+24. how to structure answers
+
+25. language model
+
+26. project structure
+	templatize
+
+27. another example
+
+28. outrank authorities
+
+29. prioritization of topics
+	start from main attributes (articles) not easy one
