@@ -163,3 +163,29 @@ clustering:
 
 29. prioritization of topics
 	start from main attributes (articles) not easy one
+
+30. information tree
+
+31. topical map creation with annotational semantic
+
+32. signaling the macro context with images
+
+33. limits and optimization of momentum
+
+34. contral entity and source context
+
+35. contextual vector constructor
+	ex list post. maily h2, title give context to article, article should reflect title contextual vector
+	- if title is benefits, the list starts with positive predicates + nouns
+	- number list
+
+36. macro and micro contextual vector
+
+37. supplementary and main content
+
+38. contextual hierarchy and connections
+
+39. contextual structure analysis and flow
+	start with definitions
+
+40. contextual structure with algorithmic rules
