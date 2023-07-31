@@ -189,3 +189,99 @@ clustering:
 	start with definitions
 
 40. contextual structure with algorithmic rules
+
+41. extractive and abstractive summary
+	h1. general summary section
+	modify sentences from the article and use them in the h1 -> absractive
+	extract sencences -> extractive
+	the summary must flow and connect with the rest of hte content
+	write the conclusion too?
+
+42. contextual structure for entities from same class
+	if list post, use same struture in all items
+	
+	example structure:
+		- definition
+		- how it works
+		- how much?
+		- how long?
+		- what proof?
+		- mention studies, researches, doctor, health institution
+
+	repeate predicates:
+		- improve, increase, develop, make
+
+	use one term one to 5 times befor using it to link
+	
+46. contextual border
+	between macro and micro context 
+	use exact definitive answer (not should, can, may)
+	give fact and expand with evidence
+
+	list definition + listing
+	don't use incomplete sentences with : before list
+
+	use the correct format per answer
+	not always true in the supportive content (usually use paragraph)
+
+47. microsemantics
+	maybe use paragraph and use the correct format in the subarticle?
+	do not delay the answer and cut the fluff out
+	give the most rich, detailed, and better formatted answer in the correct page	
+
+48. knowledge-base contruction within definitions
+	relevant introduction and be coherent with content and organize correctly
+
+49. balancing contextual coverage
+
+50. structuring context with macro and micro semantics
+
+51. turning queries into headings
+
+52. including answer terms with contextual flow
+
+53. matching and signalling anchor text terms
+
+54. using boolean questions in queries
+
+55. consolidating contextual relevance
+	tip: check the number of occurences of a word for clustering and prioritizing
+
+56. using antonyms for contextual bridges
+	justify the contextual flow by using words and phrases in on paragraph before using them in the subheading
+
+57. phrase sequences and distributional semantics
+
+58. using multiple content format in a single web document
+
+59. lemmatization in contextual vector
+
+60. creating information extraction points
+
+61. sequence modeling and canonical queries
+
+62. reading query networks
+
+63. using multiple contextual domains in main content
+
+64. connecting attributes of central entity
+
+65. data to website
+	your website is just a rapresentation of your dataset
+	no conflicting informations
+
+66. 
+
+67.
+
+68. include studies, numbers, researches
+
+69. 
+
+70. consensus.app
+
+71.
+
+72.
+
+73. 
