@@ -1,0 +1,14 @@
+CARE:
+
+C: client
+
+A: asset
+- create assets to fully replace DFY services (long term)
+1. email list
+2. info products
+3. team building
+4. amazon publishing
+
+R: recurring
+
+E: energy management

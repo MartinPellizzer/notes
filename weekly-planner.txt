@@ -1,0 +1,62 @@
+MONDAY:
+- morning:
+	- studies	
+	- meeting
+	- article
+- afternoon:
+	- articles
+	- pinterest
+	- images
+	- medicinal plants
+	- courses
+
+TUESDAY:
+- morning:
+	- studies	
+	- meeting
+	- article
+- afternoon:
+	- articles
+	- pinterest
+	- images
+	- medicinal plants
+	- courses
+
+WEDNESDAY:
+- morning:
+	- studies	
+	- meeting
+	- article
+- afternoon:
+	- articles
+	- pinterest
+	- images
+	- medicinal plants
+	- courses
+
+THURSDAY:
+- morning:
+	- studies	
+	- meeting
+	- article
+- afternoon:
+	- articles
+	- pinterest
+	- images
+	- medicinal plants
+	- courses
+
+FRIDAY:
+- morning:
+	- studies	
+	- meeting
+	- article
+- afternoon:
+	- articles
+	- pinterest
+	- images
+	- medicinal plants
+	- courses
+
+SATURDAY:
+SUNDAY:
