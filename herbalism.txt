@@ -1,0 +1,85 @@
+BOOKS:
+	- The modern hebal dispensatory (see for marketing)
+
+=======================
+HERBAL MEDICINE
+=======================
+one of the most ancient of the healing arts
+
+-----------------------
+basics
+-----------------------
+
+energetics
+
+warming
+cooling
+neutral
+
+moistening
+drying
+balancing
+
+constricting
+relaxing
+nourishing
+
+12 categories of herbs
+	pungent herbs
+	aromatic herbs
+	simple (nonalkaloidal) bitters
+	alkaloidal bitters
+	fragrant bitters
+	acrid herbs
+	astringent herbs
+	astringent herbs
+	sour herbs
+	salty herbs
+	sweet herbs
+	mucilant herbs
+	oily herbs
+
+the 6 tissue states
+	metabolic rate
+		overactive
+		underactive
+	density
+	tension
+
+energy production
+	irritation
+	depression
+
+mineral and fluids
+	stagnation
+	atrophy
+
+tissue tone
+	constriction
+	relaxation
+
+getting results you want
+	get correct assesment
+	select proper remedy
+
+-----------------------
+HERBAL PREPARATIONS
+-----------------------
+fresh herbs
+dried herbs
+	capsules
+	tablets
+	liquid herbs (extractions)
+		water extractions 
+			infusions (teas or risanes)
+			decoctions
+		syrups
+		alcohol extractions (tinctures)
+		glycerin extractions (glycerintes)
+		herbal vinegars or acid tinctures
+		oil extractions
+	specialized preparations
+		liquid capsules
+		standardized extracts
+		essential oils
+TODO: check table for dosage suggestion for forms
