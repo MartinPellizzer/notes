@@ -1,0 +1,131 @@
+GAME
+
+G: GENERATE
+big idea - premise
+usp - master feature
+solution mechanism - why does the usp work so well
+hook - gripping beginning
+
+research
+	reddit and forums
+		check video/slides for keywords (failure, victory, happy, sad, etc...)
+	real ass books on subject matter
+		amazon, also check questions and reviews
+	nbci (national database science)
+	sciencedaily.com
+	newspapers and industry publications - WSJ, Harvard Business Review, etc.
+	existing customers/audience
+	calling up enthusiasts, experts, novices
+		hey, i'd like to interview you for 15 minutes for some research that i'm doing
+
+prompts
+	dimensionalized desire stack
+		i want ___
+		physical image/sensation ___
+		what important people/strangers say ___
+		deep inside, i feel ___
+		consequences ___
+		(storytelling, what's in it for me, promises, credibility)
+	dimensionalized pain stack (same questions, but negative)
+		i want ___
+		physical image/sensation ___
+		what important people/strangers say ___
+		deep inside, i feel ___
+		consequences ___
+		(problem mechanism, pain agitation, negative lead/close)
+		
+space and time
+	location/geography: where ingredient, process, etc come from?
+	historical elements: from history or historical allegory
+	contemporary: what is recent and timely? (studies)
+
+	timeframes
+		what happens immediately after used product: feeling? instant access?
+		7 days after: what negative are going away?
+		1 month after: what good things are happening?
+		3 months after: what great things are happening?
+		6 months to 1 year: how is life never the same?
+
+world and nature
+	animals: directly related (indirect, random)
+	plants: common, botanical, tribal, historical names
+	people: direct, or allegorical
+	chemicals/compounds: scientific and lay-names
+	foods/spices: scientific and lay-names
+	body parts: direct or allegorical
+	stars/planets/galaxies: direct or allegorical
+
+	interracing with nature
+		what happens when we go with nature: more ease, way it should be, how does product enhance?
+		fight with nature: it's harder, not meant to be. why is life without your product fighting against nature?
+		flow with nature, not against it
+
+	manmade
+		objects: relevant, or random
+		chemicals: scientific and lay names
+		processes: ex GAME frame
+		experiences: on the driving range
+		professions/hobbies: relevant, or random
+		jargon: technical and hobbyst
+	 	tools: relevant, or random
+		religion/mythology: biblical, mythological, stories/names
+		conspiracies: great weight loss hoax
+
+interiority
+	positive emotions
+	negative emotions
+	beliefs
+	reactions
+	secrets
+	questions
+
+language
+	cliches/quotes
+	cool words: "bliss molecule" (powerthesaurus.com)
+	acronyms and bacronyms
+	questions
+	etymology
+	numbers: time, units, steps. "what comes in 4's?"
+	stories/faily tales/proverbs/mantras
+
+metaphor matrix
+	object, animal, person, common process >> product, mechanism, results
+
+generative headlines structures
+	| PREHEADLINE              | HEADLINE        | POSTHEADLINE            |
+	| call out/agitate problem | copy promise    | credibility             |
+	| call out audience        | body promise    | address skepticism      |
+	| credibility              | wiifm           | dismiss other solutions |
+	| mechanism tease          | mechanism tease | timeframe/immediacy     |
+	| scarcity                 | story           | cta to keep reading     |
+	| urgency                  | hook            |                         |
+
+full deck checklist: big idea
+	promise (answers "what's in it for me?")
+	gripping (suspense, curious, counterintuitive, etc.)
+	immediacy (need to know NOW)
+	elegance (clear)
+	relevant (important to the market)
+
+usp
+	feature is special, unique, rare, new
+	elegant (clear)
+	relevant to desire outcome
+
+solution mechanism
+	logical
+	proof (scientific and/or social)
+	timely (feels modern even if derived of old, and words fast)
+
+hook
+	gripping
+	powerful
+	unique
+	
+
+
+A: ARTICULATE
+
+M: MANIPULATE
+
+E: END
