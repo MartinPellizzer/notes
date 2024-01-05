@@ -1,17 +1,17 @@
 GAME
 
 G: GENERATE
-big idea - premise
-usp - master feature
-solution mechanism - why does the usp work so well
-hook - gripping beginning
+1. big idea - premise
+2. usp - master feature
+3. solution mechanism - why does the usp work so well
+4. hook - gripping beginning
 
 research
 	reddit and forums
 		check video/slides for keywords (failure, victory, happy, sad, etc...)
 	real ass books on subject matter
 		amazon, also check questions and reviews
-	nbci (national database science)
+	nbci (national database science): check ingredients, hormones, illnesses, etc...
 	sciencedaily.com
 	newspapers and industry publications - WSJ, Harvard Business Review, etc.
 	existing customers/audience
@@ -19,7 +19,7 @@ research
 		hey, i'd like to interview you for 15 minutes for some research that i'm doing
 
 prompts
-	dimensionalized desire stack
+	dimensionalized desire stack (write from the client pov)
 		i want ___
 		physical image/sensation ___
 		what important people/strangers say ___
