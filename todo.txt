@@ -1,7 +1,12 @@
+fix pin generator (font and layout)
+
+course: landig page - video 4.2
+
+fix number in pin (make it bigger)
+fiw tea benefit post (add featured image)
 
 generate 7 clips
 generate 7 images
-new post (herbal tea idea?) (with images)
 update plants root posts (ai, lists?)
 
 
@@ -15,7 +20,9 @@ magazine:
 
 website:
 	modify root plants - add list, images, layout? (do only yarrow for now)
-	new post - tea benefits (images, intro)
+	new post - tea benefits 
+		intro post
+		intro images
 
 
 
