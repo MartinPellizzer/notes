@@ -1,30 +1,27 @@
-fix pin generator (font and layout)
+clip: 1h
+
+fix tea benefit post (add meta and table of content)
+improve plants posts: root/medicine (add lists and h3)
+
+
+
+
+
+
 
 course: landig page - video 4.2
 
-fix number in pin (make it bigger)
-fiw tea benefit post (add featured image)
 
 generate 7 clips
 generate 7 images
 update plants root posts (ai, lists?)
 
 
-
-magazine:
-	create title (make chatgpt title machine)
-		use highlights from studies for input prompts to title machine
-	include pathogens in problem paragraph
-	include highlights in article for quick reference
-	include page numbers
-
 website:
 	modify root plants - add list, images, layout? (do only yarrow for now)
 	new post - tea benefits 
 		intro post
 		intro images
-
-
 
 pinterest 
 	new post
@@ -43,7 +40,6 @@ choose branding color palette
 
 complete home page
 generate root articles (ai)
-complete magazine
 
 make second image of leen to post, leen in garden (caption: how healing is gardening)
 	nothing is more healing than gardening
