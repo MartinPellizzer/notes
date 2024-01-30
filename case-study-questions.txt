@@ -1,0 +1,36 @@
+town, address
+property type
+property size
+scope of work
+substrate condition
+time to complete
+materials used
+problems
+solutions
+colors
+unique comments
+photo 1-6 (before and after, from same angle)
+
+1. headline
+	what is the project and where?
+2. introduction
+	what is the case study about? briefly indroduce
+3. location
+	list neighborhood, town, city, country, state zip code, major landmarks, historic districts or areas schools, transportation/trains/bus stops
+4. project and size
+	type of project or property, how big or how many sqare feet?
+5. numerical data
+	how long in business or existence? or cost cost of project 
+6. business name
+	include name, address and phone number
+7. features/benefits
+	a list of key features and benefits, highlighting its unique selling points and any noteworthy aspects that may be of interest to potential buyers or investors
+8. problems
+	a description of any problems or challenges faced during the course of the project
+9. solution
+	a description of the solutions or strategis that were used to overcome the problems or challenges faced during the project
+10. products used
+	a list of any products or services used in relation to the project or propertiy, such as building materials, design elements, or marketing strategies
+11. summary
+
+check video for example

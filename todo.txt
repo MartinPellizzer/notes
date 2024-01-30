@@ -1,49 +1,33 @@
-clip: 1h
-
-fix tea benefit post (add meta and table of content)
-improve plants posts: root/medicine (add lists and h3)
-
-
-
-
-
-
-
-course: landig page - video 4.2
+fine tune articles
+	add supplementary content
+	icons for ingredients and instructions
+automate homepage blog posts?
+herbalism page?
+	list conditions by macrocategory (gut health, respiratory health, etc...)
+add new herbs
+pinterest
+	pinterest fix description
+	pinterest take images from list teas
 
 
-generate 7 clips
-generate 7 images
-update plants root posts (ai, lists?)
+PINTEREST:
+	fix description - from <p> tags clip on character count (500)
 
 
-website:
-	modify root plants - add list, images, layout? (do only yarrow for now)
-	new post - tea benefits 
-		intro post
-		intro images
+CLIPS:
+	1. gen full clip
+	2. focus on head (using timestamps from clip)
+	flip
+	vfx
+	find background viral music
+	zoom in
+	image
+	new subtitles
+	- streamline autoclip no-silence
 
-pinterest 
-	new post
-	new template
 
-instagram/twitter 
-	new post
-	new comments
-	new template
-	find new accounts
+move tmp clips out of project > C drive?
 
-complete post tea
-	complementary content
-
-choose branding color palette
 
 complete home page
-generate root articles (ai)
-
-make second image of leen to post, leen in garden (caption: how healing is gardening)
-	nothing is more healing than gardening
-		-
-		-
-		-
 
