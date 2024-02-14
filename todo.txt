@@ -1,13 +1,20 @@
+complete sleep article (intro + supplementary content)
+automate studies abstract summarize.
+	"write a summary for the following study: [abstract]"
+
 fine tune articles
 	add supplementary content
 	icons for ingredients and instructions
+
 automate homepage blog posts?
+
 herbalism page?
 	list conditions by macrocategory (gut health, respiratory health, etc...)
 add new herbs
+
 pinterest
 	pinterest fix description
-	pinterest take images from list teas
+	pinterest take images from list teas (headaches)
 
 
 PINTEREST:
