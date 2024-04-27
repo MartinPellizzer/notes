@@ -1,8 +1,7 @@
 - insert additional text in articles to introduce images and lists
-- add intros to articles
-- complete medicine article
 - add supplementary content to benefits
 - ai generate benefits in list with descriptions, then split to put that content in all articles in a coherent way
+- gen ai conditions and constituents with description, in the hope to get better names
 
 complete sleep article (intro + supplementary content)
 automate studies abstract summarize.

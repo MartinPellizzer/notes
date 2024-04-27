@@ -1,0 +1,48 @@
+=======================
+= TERRITORIO
+=======================
+
+Regioni:
+	1. Veneto
+	2. Friuli, Trentino, Lombardia, Emilia
+	3. Aosta, Piemonte, Liguria, Toscana, Marche
+	4. Umbria, Lazio, Abruzzo
+	5. Campania, Molise, Puglia, Basilicata
+	6. Calabria, Sicilia, Sardegna
+
+Procedura Regioni:
+	1. Contattare 1 volta tutti i prospetti di una regione (per campagna)
+	2. Esauriti tutti i prospetti di una regione, passare alla prossima regione
+	3. Dare priorità alle regioni nell'ordine indicato nella lista precedente
+	4. Se non si sono ottenuti risultati soddisfacenti nelle prime 10 regioni... 
+		... interrompere la campagna e passare alla prossima campagna
+
+
+
+=======================
+= CAMPAGNA
+=======================
+
+Problemi:
+	[ ] Acari salumi (salumifici)
+	[ ] Muffa formaggi (caseifici)
+
+Soluzioni:
+	- Omega O3 (piccole dimensioni)
+	- Big Power (grandi dimensioni)
+
+Procedura Generale:
+	1. Scegliere un problema dalla lista "Problemi"
+	2. Scaricare la lista di prospetti che hanno quel problema per regione
+	3. Mandare 1 email ad ogni prospetto della lista
+	4. Telefonare i prospetti che acconsentono all'appuntamento telefonico
+	5. Andare ad installare o spedire il generatore ozono ai prospetti che hanno acconsentito alla prova gratuita
+	6. Andare dal cliente o telefonargli alla fine della prova gratuita per vendere o ritirare il generatore 
+	
+
+
+==============================================
+1. PROCEDURA RICERCA CONTATTI
+==============================================
+
+

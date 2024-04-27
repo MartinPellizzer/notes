@@ -1,0 +1,7 @@
+1 macro context per page
+each micro context in a page must connect to:
+	1. central entity (ozone, wellness?)
+	2. source context ()
+	3. central search intent ()
+use chatgpt for micro context? configure it for the 3 above?
+use "and" in title tag?
