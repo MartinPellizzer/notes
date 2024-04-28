@@ -1,4 +1,19 @@
 =======================
+= AZIONI IMMEDIATE
+=======================
+
+- Chiedere a Mauro ed Elena da quale problema cominciare (1 problema solo)
+    - Sciegliere il problema in base a:
+        1. Percentuale di riuscita risoluzione problema (storico clienti vecchi)
+        2. Necessità di mercato
+    - NOTA: dare priorità alla percentuale di riuscita
+        - Visto che il cliente è distante non possiamo seguirlo personalmente,
+          quindi è cruciale minimizzare il tasso di fallimento della prova gratuita...
+          ovvero, quale problema ha meno variabli in gioco? e quale problema siamo
+          più sicuri di riuscire a risolvere a prescindere dalle varie casistiche
+
+
+=======================
 = TERRITORIO
 =======================
 
@@ -33,16 +48,82 @@ Soluzioni:
 
 Procedura Generale:
 	1. Scegliere un problema dalla lista "Problemi"
-	2. Scaricare la lista di prospetti che hanno quel problema per regione
-	3. Mandare 1 email ad ogni prospetto della lista
-	4. Telefonare i prospetti che acconsentono all'appuntamento telefonico
+	2. Scaricare la lista di prospetti che hanno quel problema per regione (programma automatico google maps)
+	3. Mandare 1 email ad ogni prospetto della lista per richiedere un appuntamento telefonico
+	4. Telefonare ai prospetti che acconsentono all'appuntamento telefonico per proporre prova gratuita
 	5. Andare ad installare o spedire il generatore ozono ai prospetti che hanno acconsentito alla prova gratuita
 	6. Andare dal cliente o telefonargli alla fine della prova gratuita per vendere o ritirare il generatore 
-	
+
 
 
 ==============================================
 1. PROCEDURA RICERCA CONTATTI
+==============================================
+
+Procedura:
+    1. Sciegliere un PROBLEMA (es. acari salumi) e un TERRITORIO (es. lombardia) 
+    2. Capire come identificare le aziende con quel problema (es. acari salumi -> salumifici)
+    3. Utilizzare il programma automatico (google maps) per scaricare la lista dei prospetti
+        - inserendo tipo azinda (es. salumifici)
+        - e inserendo nome territorio (es. provincia? regione?)
+    4. Verificare che i dati dei prospetti siano corretti e completare i dati mancanti
+
+Strumenti:
+    - Programma per scaricare i dati da google maps (scraper)
+
+Personale:
+    - 1 persona che utilizzi il programma per scaricare i dati e che completi i dati mancati
+
+
+
+==============================================
+2. PROCEDURA INVIO EMAIL
+==============================================
+
+Procedura:
+    1. Scrivere una email per fissare appuntamento telefonico
+    2. Inviare questa email a 20 prospetti al giorno
+
+Struttura Email:
+    1. Dire chi sei
+    2. Dire cosa vuoi (es. parlare con il loro responsabile produzione)
+    3. Dire perché (es. nuovo sistema per risolvere problema con molti benefici... e in tot tempo)
+    4. Dire offerta irrifiutabile (es. prova gratuita, no spese nascoste, facile da fare, no obbligo acquisto)
+    5. Ridire cosa vuoi (es. fissare appuntamento telefonico con responsabile un giorno della prossima settimana)
+    6. Saluti
+
+Materiale:
+    - Indirizzo email dell'azienda
+    - Problema da risolvere
+    - Benefici nel risolvere il problema
+    - Offerta
+    - Calendario disponibilità del venditore che farà la telefonata
+    
+Personale:
+    - 1 persona che mandi manualmente 20 email al giorno, con qualche minuto di intervallo tra le email se possibile
+
+
+
+==============================================
+3. PROCEDURA TELEFONATA CONOSCITIVA
+==============================================
+
+
+
+==============================================
+4. PROCEDURA TELEFONATA CONOSCITIVA
+==============================================
+
+
+
+==============================================
+5. PROCEDURA MONITORAGGIO PROVA
+==============================================
+
+
+
+==============================================
+6. PROCEDURA VENDITA DOPO PROVA
 ==============================================
 
 
