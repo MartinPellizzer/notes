@@ -1,0 +1,2 @@
+TARGET:
+	- check prompts for ai
