@@ -5,14 +5,17 @@
 #########################################
 [] meta title
 #########################################
-    - max 60-70 chars, 512px
-    - describe your brand and offer + unique selling point
-    - positive, clear, convincing
-    - insert brand name at start or end (start better?)
-    - use one word that resonate with your audience emotionally (ex. you?)
-    - ex. Acme Widget Inc | The best widgets for all occasions
-    - ex. <title>insert title here</title>
-    - es. Ozonogroup | Food Industry Sanitization with Advanced Ozone Generators
+- max 60-70 chars, 512px
+- describe your brand and offer + unique selling point
+- positive, clear, convincing
+- insert brand name at start or end (start better?)
+- use one word that resonate with your audience emotionally (ex. you?)
+- ex. Acme Widget Inc | The best widgets for all occasions
+- ex. <title>insert title here</title>
+- es. Ozonogroup | Food Industry Sanitization with Advanced Ozone Generators
+
+prompt:
+    i have a website called "[insert brand here]" that [insert what/who/why/how here]. i have to srite a meta title for the homepage of this website. give me a list of ideas using the following rules: [insert rules mentioned above here]
 
 #########################################
 [] meta description
