@@ -1,0 +1,80 @@
+#########################################
+# checklist
+#########################################
+
+#########################################
+[] meta title
+#########################################
+    - max 60-70 chars, 512px
+    - describe your brand and offer + unique selling point
+    - positive, clear, convincing
+    - insert brand name at start or end (start better?)
+    - use one word that resonate with your audience emotionally (ex. you?)
+    - ex. Acme Widget Inc | The best widgets for all occasions
+    - ex. <title>insert title here</title>
+    - es. Ozonogroup | Food Industry Sanitization with Advanced Ozone Generators
+
+#########################################
+[] meta description
+#########################################
+    - write a meta description
+    - minimum 100 characters
+    - the description should expand on the message of the meta title
+    - say a little bit more about my offer
+    - give my unique selling point
+    - write a messege that convince people my brand is the best solution for them
+    - write a message that confirms to them that they will be happy to do buisness with me
+    - ex. <meta name="description" content="insert conent here">
+    - ex. what someone sees when they Goodle your brand is vital to your business. It's called a brand SERP. Kalicube helps you leverage your brand serp to improve your bottom line. find out more >>
+
+#################################################
+content
+#################################################
+    - appeal to 3 personas
+        1. existing clients (looking for a specific part of your site)
+        2. bottom of funnel prospects (ready to do business because they searched your brand name)
+        3. top of funnel prospects (who searched for other terms that your homepage ranks for)
+    - if homepage has significan non-branded traffic
+        - focus homepage content on
+            - existing clients
+            - bottom of funnel prospects
+    - if homepage is mostly your brand name
+        - balance homepage content
+            - existing clients
+            - bottom of funnel prospects
+            - top of funnel prospects
+
+#################################################
+above the fold
+#################################################
+- intuitive navigation
+- lasting impression
+
+#################################################
+below the fold
+#################################################
+
+#################################################
+[] navigation
+#################################################
+- add links to:
+    - about us
+    - contact
+- footer or header menu
+
+#################################################
+[x] favicons
+#################################################
+- <link rel="icon" href="">
+
+#################################################
+[x] image
+#################################################
+- great quality attractive image on the page
+- use schema markup or 
+- "og:" metas (ex. <meta property="og:image" content="https://...">)
+
+#################################################
+reindex homepage
+#################################################
+- google search console (enter url in inspector - request indexing)
