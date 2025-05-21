@@ -15,7 +15,7 @@
 - es. Ozonogroup | Food Industry Sanitization with Advanced Ozone Generators
 
 prompt:
-    i have a website called "[insert brand here]" that [insert what/who/why/how here]. i have to srite a meta title for the homepage of this website. give me a list of ideas using the following rules: [insert rules mentioned above here]
+    i have a website called "[insert brand here]" that [insert what/who/why/how here]. i have to write a meta title for the homepage of this website. give me a list of ideas using the following rules: [insert rules mentioned above here]
 
 #########################################
 [] meta description
